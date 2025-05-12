@@ -1,36 +1,15 @@
 # 👋 Hi there!
 
-I'm a 20-year-old student pursuing a degree in Systems Engineering at Wrocław University of Science and Technology. I'm passionate about technology, learning, and sharing knowledge. Here’s a little more about me:
+I'm a 20-year-old Systems Engineering student at Wrocław University of Science and Technology. Passionate about technology, learning, and sharing knowledge.
 
-## 📚 **Tutor & Mentor**
-- Experienced **math tutor**, helping students master mathematical concepts and problem-solving.
-- I love sharing my knowledge and making complex topics simple and understandable.
+## 📚 **Math Tutor**
+- Helping students understand complex math concepts.
 
 ## 🥋 **Judo Enthusiast**
-- Holder of a **brown belt in judo**, embracing discipline, perseverance, and continuous self-improvement.
+- Brown belt in judo, embracing discipline and improvement.
 
-## 💻 **Tech & AI Enthusiast**
-- Deeply interested in **machine learning** and **artificial intelligence**.
-- Always exploring the latest advancements and practical applications of AI.
+## 💻 **AI & Machine Learning Enthusiast**
+- Exploring AI advancements and their applications.
 
-## 🏃‍♂️ **Active Lifestyle**
-- Sports lover, staying active and constantly challenging myself to improve.
+Thanks for visiting my profile!
 
-## 📫 **Let's Connect!**
-- Feel free to reach out for collaboration, tutoring, or just a friendly chat.
-
-Thanks for stopping by, and I hope you find something interesting here on my GitHub!
-
----
-
-### 🌱 **Always Learning** | 🤖 **AI Enthusiast** | 📊 **Math Lover** | 🥋 **Martial Artist**
-
-Sports lover, staying active and constantly challenging myself to improve.
-
-📫 Let's Connect!
-
-Feel free to reach out for collaboration, tutoring, or just a friendly chat.
-
-Thanks for stopping by, and I hope you find something interesting here on my GitHub!
-
-🌱 Always Learning | 🤖 AI Enthusiast | 📊 Math Lover | 🥋 Martial Artist
