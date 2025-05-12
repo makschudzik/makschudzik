@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi there!
 
-<!--
-**makschudzik/makschudzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20-year-old student pursuing a degree in Systems Engineering at Wrocław University of Science and Technology. I'm passionate about technology, learning, and sharing knowledge. Here’s a little more about me:
 
-Here are some ideas to get you started:
+📚 Tutor & Mentor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced math tutor, helping students master mathematical concepts and problem-solving.
+
+I love sharing my knowledge and making complex topics simple and understandable.
+
+🥋 Judo Enthusiast
+
+Holder of a brown belt in judo, embracing discipline, perseverance, and continuous self-improvement.
+
+💻 Tech & AI Enthusiast
+
+Deeply interested in machine learning and artificial intelligence.
+
+Always exploring the latest advancements and practical applications of AI.
+
+🏃‍♂️ Active Lifestyle
+
+Sports lover, staying active and constantly challenging myself to improve.
+
+📫 Let's Connect!
+
+Feel free to reach out for collaboration, tutoring, or just a friendly chat.
+
+Thanks for stopping by, and I hope you find something interesting here on my GitHub!
+
+🌱 Always Learning | 🤖 AI Enthusiast | 📊 Math Lover | 🥋 Martial Artist
