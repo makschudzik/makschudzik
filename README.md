@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-🧠 Systems engineering stident at Wrocław University of Science and Technology<br/>
+🧠 Systems engineering student at Wrocław University of Science and Technology<br/>
 📚 Math Tutor - helping students understand complex math concepts.<br/>
 🥋 Judo Enthusiast - brown belt in judo, embracing discipline and improvement.<br/>
 💡 AI & Machine Learning Enthusiast - exploring AI advancements and their applications.<br/>
